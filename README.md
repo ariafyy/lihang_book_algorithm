@@ -1,23 +1,4 @@
-<!--
-@Author: WenDesi
-@Date:   09-08-16
-@Email:  wendesi@foxmail.com
-@Last modified by:   WenDesi
-@Last modified time: 09-11-16
--->
-
-
-
 # lihang_book_algorithm
-被李航老师肯定啦！！开心！
-<br>![](https://raw.githubusercontent.com/WenDesi/lihang_book_algorithm/master/weibo.png)
-
-## 简介
-我这里不介绍任何机器学习算法的原理，只是将《统计学习方法》中每一章的算法用我自己的方式实现一遍。
-除了李航书上的算法外，还实现了一些其他机器学习的算法。
-
-那么我们就按章节来了
-
 ## 章节
 
 ### 第二章 感知器模型
